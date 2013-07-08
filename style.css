@@ -1,6 +1,28 @@
 @CHARSET "ISO-8859-1";
 
 body {
-	color:white;
-	backround:black;
+	color: white;
+	background: black;
+	font-family:abel;
+	font-style: normal;
+	font-weight: 400;
+}
+
+p {
+	font-family: arapey, germania-one, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+
+a {
+	color: yellow;
+	font-family: arizonia, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+
+.mojfont {
+	font-family: almendra-sc,sans-serif;
+	font-style: normal;
+	font-weight: 400;
 }
